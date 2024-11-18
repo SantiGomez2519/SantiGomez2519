@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Workbench&pause=1000&color=A32CF7&center=true&width=435&lines=Santiago+G%C3%B3mez+Ospina;Systems+engineer)](https://git.io/typing-svg)
 
 <!--
 **SantiGomez2519/SantiGomez2519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

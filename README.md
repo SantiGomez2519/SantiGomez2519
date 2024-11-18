@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img width="780" height="150" src="https://streak-stats.demolab.com?user=SantiGomez2519&theme=onedark&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats">
+  <img width="1000" height="300" src="https://streak-stats.demolab.com?user=SantiGomez2519&theme=onedark&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak Stats">
 </p>

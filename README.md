@@ -14,3 +14,7 @@
 <p align="center">
   <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=SantiGomez2519&theme=halloween"/>
 </p>
+
+<p align="right">
+  <img height="50" alt="" src="https://komarev.com/ghpvc/?username=MiguelCock&style=pixel&color=red"/>
+</p>

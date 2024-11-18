@@ -7,7 +7,7 @@
 - My fullname is Santiago Gómez Ospina ⚽
 - Currently I'm studying Systems Engineering at [EAFIT University](https://www.eafit.edu.co/ "EAFIT University Page") 👨🏻‍💻
 - I'm from Medellín - Colombia 🇨🇴
-- I love the sports and coding
+- I love sports and coding
 
 <h2 align="center">Languages 🌎</h2>
 

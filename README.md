@@ -2,7 +2,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Workbench&size=60&duration=3000&pause=3000&color=A32CF7&center=true&vCenter=true&width=800&height=100&lines=Santiago+Gómez+Ospina;Systems+engineer" alt="Typing SVG" /></a>
 </p>
 
-<h2 align="center">Languages and tools 💻</h2>
+<h2 align="center">About me 🌃</h2>
+
+<h2 align="center">Languages 🌎</h2>
+
+<h2 align="center">Skills and Tools 💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,arduino,bash,bootstrap,c,cpp,cmake,css,discord,docker,figma,github,gmail,html,java,js,latex,linux,mongodb,mysql,notion,obsidian,py,r,replit,ts,vim,vscode,windows" />

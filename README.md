@@ -10,3 +10,7 @@
 
   <img width="780" height="220" src="https://streak-stats.demolab.com?user=SantiGomez2519&theme=onedark&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+<p align="center">
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=SantiGomez2519&theme=halloween"/>
+</p>

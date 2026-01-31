@@ -18,7 +18,7 @@
 <h2 align="center">Skills and Tools 💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,bootstrap,c,cpp,cmake,css,discord,docker,figma,github,gmail,html,java,js,latex,linux,mongodb,mysql,notion,obsidian,py,r,replit,ts,vim,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,docker,github,java,js,latex,linux,mongodb,mysql,py,ts,vscode,django,laravel" />
   </a>
 </p>
 

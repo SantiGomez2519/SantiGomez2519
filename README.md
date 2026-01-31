@@ -12,7 +12,7 @@
 <h2 align="center">Languages 🌎</h2>
 
 - Spanish, native language
-- English, B1 level
+- English, B2 level
 
 
 <h2 align="center">Skills and Tools 💻</h2>
